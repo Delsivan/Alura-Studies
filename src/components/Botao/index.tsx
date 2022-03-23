@@ -3,7 +3,12 @@ import React from 'react';
 class Botao extends React.Component {
     render() {
         return (
-            <button>Botão</button>
+            <>
+                <p> Título do Botão </p>
+                <button>
+                    Botão
+                </button>
+            </>
         )
     }
 }
