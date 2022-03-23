@@ -25,3 +25,5 @@ function Lista() {
         </aside>
     )
 }
+
+export default Lista;
